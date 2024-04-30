@@ -1,4 +1,4 @@
-## https://react-gato.netlify.app/
+## https://react-mousefollow.netlify.app/
 
 # React + Vite
 
